@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+* {
+    font-family: Arial;
+    font-size:20px;
+    font-style: italic;
+}
+
+body {
+	color:rgb(10, 0, 0);
+	margin: 0 !important;
+    padding: 0 !important;
+}
+
+#container {
+	position:absolute;
+}
+
+#webglcanvas {
+	border:none;
+	background-color:#ffffff;
+}
+
