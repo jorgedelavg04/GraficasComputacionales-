@@ -1,0 +1,62 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>A4 penguin-walking</title>
+
+<link rel="stylesheet" href="../libs/jquery-ui/jquery-ui.css" />
+<link rel="stylesheet" href="../libs/colorpicker/css/colorpicker.css" />
+<link rel="stylesheet" href="../css/main.css" />
+<link rel="stylesheet" href="../css/threejsshadows.css" />
+
+<script src="../libs/jquery-3.3.1/jquery-3.3.1.js"></script>
+<script src="../libs/jquery-ui/jquery-ui.js"></script>
+
+<script src="../libs/three.js/three.js"></script>
+<script src="../libs/three.js/controls/OrbitControls.js"></script>
+<script src="../libs/colorpicker/js/colorpicker.js"></script>
+
+<script src="../libs/three.js/loaders/OBJLoader.js"></script>
+<script src="../libs/tween.js/tween.js"></script>
+<script src="../libs/keyframe.js/keyframe.js"></script>
+
+<script src="js-animation.js"></script>
+<script src="ui.js"></script>
+
+<script type="text/javascript">
+
+	$(document).ready(
+			function() {
+
+				var canvas = document.getElementById("webglcanvas");
+				canvas.width  = window.innerWidth;
+				canvas.height = window.innerHeight;
+				// create the scene
+				createScene(canvas);
+
+				// initialize the controls
+				initControls();
+
+				// create the animations
+				playAnimations();
+
+        // Run the run loop
+        run();
+			}
+	);
+
+</script>
+
+</head>
+<body>
+
+<div id="container">
+    <canvas id="webglcanvas" width=800 height=600></canvas>
+	<div id="title">
+		A4 penguin-walking
+	</div>
+	<div id="prompt">
+		Drag the mouse to rotate the camera<br>Use the scroll wheel to zoom.
+	</div>
+</div>
+
+</html>
