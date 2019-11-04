@@ -1,5 +1,3 @@
 ## Graficas Computacionales 
 
-***Estaba intentando subir mis archivos usando la terminal pues es la primera vez que lo hago de esta forma,  ya que siempre subo las tareas arrastrándolas de forma manual y hoy por fin (24/Oct/2019) me decidí a hacer el  push desde la terminal y termine borrando todo el repositorio. Lo que me preocupa es que me reste calificación en la tarea pasada pues aparecerá como si la haya subido hoy. Hay algún problema? Le prometo que las tareas son exactamente igual que cuando las subí, además puede ver que tuve actividad el día que se subieron las tareas de la clase, y si recuerda me estuvo ayudando bastante en las animaciones del pingüino pues andaba bien perdido y al final las logré realizar. Me tarde horas intentando poder subir los documentos pero creo que por fin entendí como hacerlo. No volverá a pasar profesor, en verdad espero comprenda y no me baje mis calificaciones pues di mucho esfuerzo haciendo los trabajos en su momento.***
-
 Jorge Constanzo De la Vega Carrasco A01650285
