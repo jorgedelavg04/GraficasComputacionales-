@@ -12,3 +12,5 @@ For each idea, define the following:
 **Deadline:** 26/09/2019
 
 Link to file: https://docs.google.com/document/d/136S5Gz3pUB5VmI6agbm_3o7bpiZm4LW7TBqDKhTsajQ/edit?usp=sharing
+
+Project Definition - Functional Requirements: https://docs.google.com/document/d/1x9cL-Zi-1ymyXsMv6MCEKim9DpjgByC_br6QdJlxYhk/edit
